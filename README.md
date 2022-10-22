@@ -8,7 +8,7 @@
 - 🌱 Şuanda Ruby Öğrenmekteyim ...
 - 📫 Bana Ulaşmak İçin 
 - Gmail : sametcetinkus@gmail.com
-- İnstagram : @Sametsecurity
+
 
 <!---
 sametcetinkuss/sametcetinkuss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
