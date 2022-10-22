@@ -8,6 +8,7 @@
 - 🌱 Şuanda Ruby Öğrenmekteyim ...
 - 📫 Bana Ulaşmak İçin 
 - Gmail : sametcetinkus@gmail.com
+- İnstagram : @sametdeveloper
 
 
 <!---
